@@ -1,0 +1,1 @@
+alias uc "fish $OMF_PATH/pkg/uc/functions/uc.fish"
